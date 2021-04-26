@@ -1,0 +1,7 @@
+#Properties file
+#Mon Apr 05 13:02:05 IST 2021
+Adapter-Name=ArtifactRequestCreationProcessor
+Enable-Maven=true
+Adapter-Vendor=sap
+Adapter-ID=ArtifactRequestCreationProcessor
+Adapter-Version=1.0
